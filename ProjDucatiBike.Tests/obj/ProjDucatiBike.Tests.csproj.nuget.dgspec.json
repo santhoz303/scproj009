@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/devsanthoz/2023/202308/20230809/scproj009/ProjDucatiBike.Tests/ProjDucatiBike.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/devsanthoz/2023/202308/20230809/scproj009/ProjDucatiBike.Tests/ProjDucatiBike.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devsanthoz/2023/202308/20230809/scproj009/ProjDucatiBike.Tests/ProjDucatiBike.Tests.csproj",
+        "projectName": "ProjDucatiBike.Tests",
+        "projectPath": "/home/devsanthoz/2023/202308/20230809/scproj009/ProjDucatiBike.Tests/ProjDucatiBike.Tests.csproj",
+        "packagesPath": "/home/devsanthoz/.nuget/packages/",
+        "outputPath": "/home/devsanthoz/2023/202308/20230809/scproj009/ProjDucatiBike.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devsanthoz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
