@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/devsanthoz/2023/202308/20230809/scproj009/Proj.Battery/Proj.Battery.csproj": {}
+  },
+  "projects": {
+    "/home/devsanthoz/2023/202308/20230809/scproj009/Proj.Battery/Proj.Battery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devsanthoz/2023/202308/20230809/scproj009/Proj.Battery/Proj.Battery.csproj",
+        "projectName": "Proj.Battery",
+        "projectPath": "/home/devsanthoz/2023/202308/20230809/scproj009/Proj.Battery/Proj.Battery.csproj",
+        "packagesPath": "/home/devsanthoz/.nuget/packages/",
+        "outputPath": "/home/devsanthoz/2023/202308/20230809/scproj009/Proj.Battery/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devsanthoz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
